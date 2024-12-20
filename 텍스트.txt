@@ -1,0 +1,30 @@
+깃허브: https://github.com/devgiants75/korea_gpt_java
+노션: https://korea-it-0724.notion.site/AI-GPT-API-PHR-14682808bfd280ca953bf4371959e6b3
+
+MWADZ-WMVBZ-LL3L3-PLKQ9-TFVXF
+
+
+
+ls -> 해당 디렉토리 파일 보기
+
+git status -> 해당 디렉토리 파일 보기
+
+git config --global user.name (유저이름) -> 계정 설정 => 새로운 환경에서 초기 설정 1회
+git config --global user.email (유저계정) -> 이메일 설정 => 새로운 환경에서 초기 설정 1회
+
+cd -> 공유 디렉토리 설정
+
+git init -> 디렉토리 설정
+git add . -> 디렉토리 내 모든 파일 업로드
+git add (파일이름).(확장명) -> 해당 파일 업로드
+
+git commit -m"(메시지)" -> 파일 설명
+
+git remote add origin (깃허브 URL) -> 해당 깃허브 URL과 연결
+git push -u origin main -> 깃허브로 업로드
+
+git clone (깃허브 코드) -> 깃허브 리포지토리 복사 => 새로운 환경에서 초기 설정 1회
+git fetch -> 깃허브 패치
+git pull -> 깃허브에서 다운로드
+
+.gitignore : 파일에 (파일명.확장명)으로 업로드하지 않을 파일 설정
